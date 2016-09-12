@@ -1,0 +1,28 @@
+{
+  "name": "diceapp",
+  "version": "1.0.0",
+  "description": "This is a rolling the dice app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttsJavaScriptAppDevelopmentSummer16/webpack_dice_PS.git"
+  },
+  "keywords": [
+    "webpack",
+    "dice"
+  ],
+  "author": "psarma89",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttsJavaScriptAppDevelopmentSummer16/webpack_dice_PS/issues"
+  },
+  "homepage": "https://github.com/ttsJavaScriptAppDevelopmentSummer16/webpack_dice_PS#readme",
+  "devDependencies": {
+    "jquery": "^3.1.0",
+    "lodash": "^4.15.0",
+    "webpack": "^1.13.2"
+  }
+}
